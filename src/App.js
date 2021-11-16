@@ -72,6 +72,7 @@ function App() {
 
   return (
     <div className="app">
+        <h1>Tic Tac Toe</h1>
       <div className="board">
         <div className="row">
           <Square 
